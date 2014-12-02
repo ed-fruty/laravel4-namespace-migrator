@@ -44,7 +44,7 @@ For reserving namespace for some path, edit configuration file `app/config/packa
 ```bash
 php artisan migrate --path=app/modules/Blog/migrations
 ```
-Migrator automatically searchwa classes with namespace `Blog\Migrations` in that directory.
+Migrator automatically searches classes with namespace `Blog\Migrations` in that directory.
 
 <h2>Workbenches</h2>
 For workbench packages Migrator automatically searches migrations by `vendor/package` name.
