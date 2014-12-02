@@ -9,6 +9,7 @@
             "Fruty\\LaravelNamespaceMigrator\\" : "src/"
         }
     },
+    "keywords": ["migration", "laravel", "namespace", "migrator", "php"],
     "license": "MIT",
     "authors": [
         {
