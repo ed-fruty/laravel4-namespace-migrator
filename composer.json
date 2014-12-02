@@ -1,0 +1,20 @@
+{
+    "name": "ed-fruty/laravel4-namespace-migrator",
+    "description": "Package for Laravel 4, supporting using namespaces in migration classes",
+    "require": {
+        "laravel/framework": "~4.2"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Fruty\\LaravelNamespaceMigrator\\" : "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduard",
+            "email": "ed.fruty@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
