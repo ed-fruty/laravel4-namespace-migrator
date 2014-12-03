@@ -7,7 +7,7 @@ Laravel 4 is not support namespaces in migration classes, but it is not a proble
 1. Use Composer to install package into your project:
 
   ```bash
-composer require "ed-fruty/laravel4-namespace-migrator":"dev-master@dev"
+composer require "ed-fruty/laravel4-namespace-migrator": "1.0.0"
 ```
 2. Add the service provider in `app/config/app.php`:
 
